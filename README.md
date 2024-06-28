@@ -41,6 +41,9 @@ MONGO_URI=mongodb://localhost:27017/yourdbname
 API_KEY_YT=your_youtube_api_key
 URL_SEARCH_YT=https://www.googleapis.com/youtube/v3/search
 URL_WATCH_YT=https://www.youtube.com/watch
+
+GEMENI_API_KEY=your_youtube_api_key
+CLAUDE_API_KEY=your_youtube_api_key
 ```
 
 Reemplaza `yourdbname` con el nombre de tu base de datos MongoDB y `your_youtube_api_key` con tu clave de API de YouTube.
